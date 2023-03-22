@@ -90,3 +90,9 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+health:
+  git:
+    url: https://github.com/traveling-developer/flutter-plugins.git
+    path: packages/health
+    ref: health-3.0.3+1
